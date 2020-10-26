@@ -7,7 +7,6 @@ namespace _0_sanity
         {
             base.OnUpdate();
             GameController.instance.myPlayer.player.insanity = 100;
-
         }
         public override void OnApplicationStart()
         {
