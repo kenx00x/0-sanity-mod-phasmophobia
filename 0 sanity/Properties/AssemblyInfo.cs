@@ -14,7 +14,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: MelonModInfo(typeof(_0_sanity.Class1), "0 sanity", "1.0.0", "kenx00x")]
+[assembly: MelonModInfo(typeof(_0_sanity.Class1), "0 sanity", "1.0.1", "kenx00x")]
 [assembly: MelonModGame("Kinetic Games", "Phasmophobia")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
