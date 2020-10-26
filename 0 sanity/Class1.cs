@@ -1,5 +1,4 @@
 ﻿using MelonLoader;
-
 namespace _0_sanity
 {
     public class Class1 : MelonMod
