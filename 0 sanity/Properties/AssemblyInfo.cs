@@ -14,8 +14,8 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: MelonModInfo(typeof(_0_sanity.Class1), "0 sanity", "1.0.1", "kenx00x")]
-[assembly: MelonModGame("Kinetic Games", "Phasmophobia")]
+[assembly: MelonInfo(typeof(_0_sanity.Class1), "0 sanity", "1.0.1", "kenx00x")]
+[assembly: MelonGame("Kinetic Games", "Phasmophobia")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
