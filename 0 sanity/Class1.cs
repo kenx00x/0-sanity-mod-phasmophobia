@@ -9,7 +9,7 @@ namespace _0_sanity
             //unobfuscated
             //GameController.instance.myPlayer.player.insanity = 100;
             //obfuscared but due to a bug currently unusable
-            ////GameController.field_Public_Static_GameController_0.field_Public_ObjectPublicPlStPlUnique_0.field_Public_Player_0.field_Private_Single_1 = 100;
+            ////GameController.field_Public_Static_GameController_0.field_Public_ObjectPublicPlStPlUnique_0.field_Public_Player_0.field_Public_Single_0 = 100;
 
             Player LocalPlayer = Helpers.GetLocalPlayer();
             LocalPlayer.field_Public_Single_0 = 100;
