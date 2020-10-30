@@ -40,6 +40,10 @@
     <Reference Include="MelonLoader.ModHandler">
       <HintPath>D:\Steam\steamapps\common\Phasmophobia\MelonLoader\MelonLoader.ModHandler.dll</HintPath>
     </Reference>
+    <Reference Include="PhotonUnityNetworking, Version=3.7.1.6, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\Steam\steamapps\common\Phasmophobia\MelonLoader\Managed\PhotonUnityNetworking.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -60,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="helpers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
